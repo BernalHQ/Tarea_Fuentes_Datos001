@@ -34,6 +34,8 @@ public class Controlador_FRM_MantenimientoCursos implements ActionListener{
         metodos_XML_Cursos = new Metodos_XML_Cursos(frm_mantenimientoCursos);
         
     }
+
+/*hola git */
     
     public void actionPerformed(ActionEvent evento)
     {
