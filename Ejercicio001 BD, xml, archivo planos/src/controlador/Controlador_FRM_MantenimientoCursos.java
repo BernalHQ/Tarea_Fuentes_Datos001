@@ -34,7 +34,7 @@ public class Controlador_FRM_MantenimientoCursos implements ActionListener{
         metodos_XML_Cursos = new Metodos_XML_Cursos(frm_mantenimientoCursos);
         
     }
-    
+    /* prueba corta git*/
     public void actionPerformed(ActionEvent evento)
     {
         if(evento.getActionCommand().equals("Agregar"))
